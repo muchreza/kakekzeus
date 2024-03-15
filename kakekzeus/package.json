@@ -28,7 +28,7 @@
 "main": "postcss.config.js",
 "repository": {
     "type": "git",
-    "url": "https://github.com/muchreza/kakekzeus."
+    "url": "https://github.com/muchreza/kakekzeus"
   },
   "author": "",
   "license": "ISC",
@@ -37,12 +37,3 @@
   },
   "homepage": "https://github.com/muchreza/kakekzeus#readme"
 }
-
-
-
-
-
-
-
-
-
